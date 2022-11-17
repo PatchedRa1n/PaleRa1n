@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-
+chmod 777 img4tool
+chmod 777 convert.sh
 mkdir -p logs
 set -e
 
